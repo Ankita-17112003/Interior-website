@@ -8,10 +8,7 @@ It is inspired by top interior designers in Pune and demonstrates creativity, UI
 ## Folder Structure
 
 interiorwebsite/
-├── index.html # Home Page
-├── about.html # About Us Page
-├── services.html # Services Page
-├── contact.html # Contact Page
+├── index.html # Home Page # about page # services page # contact page
 ├── assets/
 │ ├── css/
 │ │ └── style.css # Main CSS file
