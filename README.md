@@ -30,7 +30,7 @@ interiorwebsite/
 ## Steps to Run Locally
 1. Clone the repository:  
 ```bash
-git clone https://github.com/username/interior-website.git
+git clone https://github.com/Ankita-17112003/Interior-website
 
 2. Open the project folder.
 
